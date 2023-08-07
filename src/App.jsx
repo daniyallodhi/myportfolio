@@ -27,11 +27,11 @@ const siteProps = {
   name: "Daniyal Lodhi",
   title: "Web Designer and Developer & Content Writer",
   email: "daniyallodhi465@gmail.com",
-  gitHub: "https://github.com/daniyallodhi",
-  instagram: "https://www.instagram.com/daniyal_lodhi_/",
-  linkedIn: "https://www.linkedin.com/in/daniyallodhi/",
+  gitHub: "daniyallodhi",
+  instagram: "daniyal_lodhi_",
+  linkedIn: "daniyallodhi",
   medium: "",
-  twitter: "https://twitter.com/DaniyalAhmadK11",
+  twitter: "DaniyalAhmadK11",
   youTube: "Code",
 };
 
