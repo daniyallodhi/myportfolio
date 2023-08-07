@@ -25,13 +25,13 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Daniyal Lodhi",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  title: "Web Designer and Developer & Content Writer",
+  email: "daniyallodhi465@gmail.com",
+  gitHub: "https://github.com/daniyallodhi",
+  instagram: "https://www.instagram.com/daniyal_lodhi_/",
+  linkedIn: "https://www.linkedin.com/in/daniyallodhi/",
   medium: "",
-  twitter: "microsoft",
+  twitter: "https://twitter.com/DaniyalAhmadK11",
   youTube: "Code",
 };
 
